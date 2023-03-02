@@ -1,17 +1,18 @@
-# Projeto-Invidual-Bancos-de-Dados
+# Projeto Módulo 4: Sistema Resilia
 
+##Proposta feita no db.diagram
 ## Descrição do projeto
-A Resilia está pensando em lançar um novo sistema de
+_A Resilia está pensando em lançar um novo sistema de
 acompanhamento e para isso precisa de ajuda para modelar um
 banco de dados que vai armazenar seus cursos, turmas e alunos.
 Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem
-e responder algumas perguntas com nosso modelo:
+e responder algumas perguntas com nosso modelo:_
 
-## ⇨ Existem outras entidades além dessas três?
+# ⇨ Existem outras entidades além dessas três?
+Turma
 
-## ⇨ Quais são os principais campos e tipos?
+# ⇨ Quais são os principais campos e tipos?
 
-## ⇨ Como essas entidades estão relacionadas?
+# ⇨ Como essas entidades estão relacionadas?
 
-Vamos tentar pensar em 2 registros para cada entidade para checar o
-preenchimento das informações no nosso model
+
