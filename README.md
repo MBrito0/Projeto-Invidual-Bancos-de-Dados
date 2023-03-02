@@ -1,6 +1,7 @@
 # Projeto Módulo 4: Sistema Resilia
 
-## Proposta feita no db.diagram
+*Proposta feita no db.diagram
+
 ## Descrição do projeto
 _A Resilia está pensando em lançar um novo sistema de
 acompanhamento e para isso precisa de ajuda para modelar um
