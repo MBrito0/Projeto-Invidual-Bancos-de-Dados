@@ -17,8 +17,10 @@ Turno
 
 ### ⇨ Como essas entidades estão relacionadas?
 Aluno está relacinado a cursos, podendo estar em múltiplos cursos;
+
 Cursos está relacionado a turmas;
-Turmas está relacionado a turno
+
+Turmas está relacionado a turno.
 
 
 ##  Diagrama feito no db.diagram
