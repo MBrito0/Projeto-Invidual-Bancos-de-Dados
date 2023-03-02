@@ -7,13 +7,14 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem
 e responder algumas perguntas com nosso modelo:_
 
-## Proposta feita no db.diagram
+###
+** Proposta feita no db.diagram **
 
-### ⇨ Existem outras entidades além dessas três?
+#### ⇨ Existem outras entidades além dessas três?
 Turma
 
-### ⇨ Quais são os principais campos e tipos?
+#### ⇨ Quais são os principais campos e tipos?
 
-### ⇨ Como essas entidades estão relacionadas?
+#### ⇨ Como essas entidades estão relacionadas?
 
 
