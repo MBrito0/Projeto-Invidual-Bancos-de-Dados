@@ -25,6 +25,6 @@ Turmas está relacionado a turno.
 
 ##  Diagrama feito no db.diagram
 
-!(https://raw.githubusercontent.com/MBrito0/Projeto-Invidual-Bancos-de-Dados/main/db.png)
+<img src:"https://raw.githubusercontent.com/MBrito0/Projeto-Invidual-Bancos-de-Dados/main/db.png">
 
 
