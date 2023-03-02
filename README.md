@@ -17,6 +17,6 @@ Turma
 #### ⇨ Como essas entidades estão relacionadas?
 
 
-##  Feito nodb.diagram
+##  Diagrama feito no db.diagram
 
 
