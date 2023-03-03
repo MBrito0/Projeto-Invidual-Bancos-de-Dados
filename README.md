@@ -14,6 +14,8 @@ e responder algumas perguntas com nosso modelo:_
 Turno
 
 ### ⇨ Quais são os principais campos e tipos?
+Os principais campos são Id, Nome, Matrícula, CPF e Curso.
+E os tipos são Int e Varchar.
 
 ### ⇨ Como essas entidades estão relacionadas?
 Aluno está relacinado a cursos, podendo estar em múltiplos cursos;
