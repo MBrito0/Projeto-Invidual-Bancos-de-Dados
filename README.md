@@ -10,8 +10,8 @@ Para apoiar nesse sistema recebemos a tarefa de realizar essa modelagem
 e responder algumas perguntas com nosso modelo:_
 
 
-### **⇨ Existem outras entidades além dessas três?
-Turno**
+### ⇨ **Existem outras entidades além dessas três?**
+Turno
 
 ### ⇨ Quais são os principais campos e tipos?
 Os principais campos são Id, Nome, Matrícula, CPF e Curso.
